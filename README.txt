@@ -1,6 +1,6 @@
 Project: Cloning the game OSMOS
 Author: Ripley6811
-Email: python@boun.cr
+Email: python at boun.cr
 
 This was an attempt to make a game like OSMOS. I was mostly interested in getting the physics to work and stopped after I got a working demo finished.
 
